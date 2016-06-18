@@ -1,12 +1,15 @@
 #Build files
 *.o
-pixie_ldf_*
+utkscan
+build/
 
 #Backup files from various editors
 *.save
 *~
 *.swp
 *.layout
+*#*
+.*.cmd
 
 #Documentation directories and files
 html/
@@ -16,6 +19,21 @@ doc/classdiagramRawEvent.svg
 config/cfgs
 optional
 ValgrindOut.xml
+
+#Compressed Files
+*.bz2
+*.tgz
+*.tar.gz
+
+#Ignore the build and exec directory
+build/
+exec/
+doc/
+
+#Ignore codeblocks files
+PixieSuite2.cbp
+PixieSuite2.cbp.save
+PixieSuite2.layout
 
 #DAMM files
 *.drr
