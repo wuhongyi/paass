@@ -1,0 +1,25 @@
+var class_high_res_timing_data =
+[
+    [ "HighResTimingData", "d7/d61/class_high_res_timing_data.html#ad2404f214094630031890f80c2d69dbf", null ],
+    [ "~HighResTimingData", "d7/d61/class_high_res_timing_data.html#a1ca37e180a1eaeafd14518477157d20e", null ],
+    [ "HighResTimingData", "d7/d61/class_high_res_timing_data.html#ac2e32ef01cd26f78665055fc5a7cd4f1", null ],
+    [ "CalcEnergy", "d7/d61/class_high_res_timing_data.html#a36e0cbbffdc4aa1fa9349c6fb9f94d28", null ],
+    [ "GetAveBaseline", "d7/d61/class_high_res_timing_data.html#a9a451f539ba43bc1af2950e63041070c", null ],
+    [ "GetCfdSourceBit", "d7/d61/class_high_res_timing_data.html#a1c664104df57069197684ce1fb0cf804", null ],
+    [ "GetChan", "d7/d61/class_high_res_timing_data.html#a7129b4a530418f46bcd8af43e9f32bab", null ],
+    [ "GetCorrectedTime", "d7/d61/class_high_res_timing_data.html#a8f47c69668eb48a8b53b7444f9979af7", null ],
+    [ "GetDiscrimination", "d7/d61/class_high_res_timing_data.html#a5c37acd4af0aca55fa830e31d6d803df", null ],
+    [ "GetFilterEnergy", "d7/d61/class_high_res_timing_data.html#ad7be8df70861f4ae5abcfb969a75d82d", null ],
+    [ "GetFilterTime", "d7/d61/class_high_res_timing_data.html#a0aa8fd1ed0f0e592bc0e7de0b19a01e3", null ],
+    [ "GetHighResTime", "d7/d61/class_high_res_timing_data.html#af1cb742a90259b8e5310e85b9164acb9", null ],
+    [ "GetIsValid", "d7/d61/class_high_res_timing_data.html#abb4f71795de7ea6f8b918e0ece2b1a74", null ],
+    [ "GetMaximumPosition", "d7/d61/class_high_res_timing_data.html#a38d19413ed2efb9f623393a2519f5040", null ],
+    [ "GetMaximumValue", "d7/d61/class_high_res_timing_data.html#ab06b6f703b5aa89f55e6e41428e69003", null ],
+    [ "GetNumAboveThresh", "d7/d61/class_high_res_timing_data.html#adca37d865da50506c2f0e07e70d25920", null ],
+    [ "GetPhase", "d7/d61/class_high_res_timing_data.html#ab7c22ad8d2691d5683edcfe01e36e207", null ],
+    [ "GetSignalToNoiseRatio", "d7/d61/class_high_res_timing_data.html#ac647c9d3c4cd83b0b7671139c2b07a31", null ],
+    [ "GetStdDevBaseline", "d7/d61/class_high_res_timing_data.html#a3263be14be1ea123751ceb90e4de14ab", null ],
+    [ "GetTrace", "d7/d61/class_high_res_timing_data.html#a0155496804c0c9e3f87a3d38125ef9e6", null ],
+    [ "GetTraceQdc", "d7/d61/class_high_res_timing_data.html#ae030857390e4ad2262e30f896c9f03b3", null ],
+    [ "chan_", "d7/d61/class_high_res_timing_data.html#a05771f9021f0b4616c47ade5170e599a", null ]
+];

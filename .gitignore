@@ -15,7 +15,7 @@ build/
 html/
 latex/
 tmp/
-doc/classdiagramRawEvent.svg
+doc/
 config/cfgs
 optional
 ValgrindOut.xml
